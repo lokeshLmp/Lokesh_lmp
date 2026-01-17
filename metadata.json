@@ -1,0 +1,7 @@
+{
+  "name": "Food Waste Planner",
+  "description": "A constraint-optimization decision system designed to measurably eliminate household food waste through high-precision planning and hybrid AI reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

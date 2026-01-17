@@ -1,0 +1,20 @@
+
+export const COLORS = {
+  LEAF: '#A8D5BA',
+  LEAF_DARK: '#7AB893',
+  FOREST: '#4A7C59',
+  FOREST_DARK: '#2F5039',
+  CREAM: '#F8F4E6',
+  SAND: '#EDE4D4',
+  EARTH: '#D9CDBD',
+  SPROUT: '#C4E4B5',
+  LIME: '#B5E61D',
+  MOSS: '#8ABF7A',
+  WILT: '#F4D03F',
+  SPOIL: '#E74C3C'
+};
+
+export const SYSTEM_DEFAULTS = {
+  WASTE_CO2_MULTIPLIER: 2.5,
+  COST_PER_KG_AVG: 450,
+};
